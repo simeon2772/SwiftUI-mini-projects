@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Naruto Uzumaki",
+        "age": 17,
+        "village": "Hidden Leaf Village",
+        "team": "Team 7",
+        "affiliation": "Konohagakure",
+        "jutsu": ["Rasengan", "Shadow Clone Jutsu", "Sage Mode"]
+    },
+    {
+        "name": "Sasuke Uchiha",
+        "age": 17,
+        "village": "Hidden Leaf Village",
+        "team": "Team 7",
+        "affiliation": "Konohagakure",
+        "jutsu": ["Chidori", "Amaterasu", "Susanoo"]
+    },
+    {
+        "name": "Sakura Haruno",
+        "age": 17,
+        "village": "Hidden Leaf Village",
+        "team": "Team 7",
+        "affiliation": "Konohagakure",
+        "jutsu": ["Medical Ninjutsu", "Hundred Seal", "Blossom Clash"]
+    },
+    {
+        "name": "Kakashi Hatake",
+        "age": 31,
+        "village": "Hidden Leaf Village",
+        "team": "Team 7",
+        "affiliation": "Konohagakure",
+        "jutsu": ["Kamui", "Raikiri", "Sharingan"]
+    }
+]
